@@ -1,0 +1,30 @@
+{
+    "name": "astrolize",
+    "displayName": "Astrolize",
+    "description": "A soft astrolokeys IDE theme, because code can be cute.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "author": {
+        "name": "Alex Lindman (sparajoy)",
+        "url": "https://twitter.com/SparaJoy"
+    },
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/spara-joy/Astrolize-VScode-Theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Astrolize",
+                "uiTheme": "vs-dark",
+                "path": "./themes/astrolize.json"
+            }
+        ]
+    }
+}
