@@ -6,6 +6,17 @@
     "engines": {
         "vscode": "^1.45.0"
     },
+    "keywords": [
+		"theme",
+		"astrolokeys",
+		"vscode",
+		"pastel",
+		"cute",
+        "monochrome",
+        "purple",
+        "c#",
+        "unity"
+	],
     "publisher": "spara-joy",
     "author": {
         "name": "Alex Lindman (sparajoy)",
@@ -16,6 +27,7 @@
         "type": "git",
         "url": "https://github.com/spara-joy/Astrolize-VScode-Theme"
     },
+    "homepage": "https://github.com/spara-joy/Astrolize-VScode-Theme/blob/master/README.md",
     "categories": [
         "Themes"
     ],
